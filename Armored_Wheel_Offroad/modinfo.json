@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Armored_Wheel_Offroad",
+    "name": "Armored_Wheel_Offroad",
+    "authors": [ "Cthae" ],
+    "description": "Makes the 32 inch armored wheels off-road. Because they are IRL.",
+    "category": "vehicles",
+    "dependencies": [ "dda" ]
+  }
+]
