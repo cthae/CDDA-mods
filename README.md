@@ -8,3 +8,35 @@ Just making my local CDDA mods available.
 4. **No_Revive** - Prevents Zombs from reviving.
 
 Just copy the chosen folders to your `cdda\data\mods`. You can edit your `cdda\save\<world>\mods.json` file and add the mods into an active playthrough, using mod idents from the `modinfo.json`
+
+
+The mods I use: 
+
+```
+[
+  "dda",
+  "no_npc_food",
+  "aftershock",
+  "blazeindustries",
+  "alt_map_key",
+  "MMA",
+  "No_Rail_Stations",
+  "speedydex",
+  "stats_through_kills",
+  "StatsThroughSkills",
+  "sees_player_retro",
+  "Cata++",
+  "Tankmod_Revived",
+  "package_bionic_professions",
+  "more_survivor_stuff",
+  "Armored_Wheel_Offroad",
+  "AftershockUDP",
+  "Tankmod_RevivedUDP",
+  "xedra_evolved",
+  "magiclysm",
+  "no_fungal_growth",
+  "Hauling_Space",
+  "no_portal_storms",
+  "no_revive"
+]
+```
