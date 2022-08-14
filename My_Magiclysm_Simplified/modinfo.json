@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "magyclism_simplified",
+    "name": "Magyclism Simplified",
+    "authors": [ "Cthae" ],
+    "description": "Rework of Magyclism. Making it non-blocking, so that you could try all classes and be not limited by CBMs in any way at all.",
+    "category": "balance",
+    "dependencies": [ "dda", "magiclysm" ]
+  }
+]

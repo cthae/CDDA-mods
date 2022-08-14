@@ -29,13 +29,14 @@ The mods I use:
   "Tankmod_Revived",
   "package_bionic_professions",
   "more_survivor_stuff",
-  "Armored_Wheel_Offroad",
+  "armored_wheel_offroad",
   "AftershockUDP",
   "Tankmod_RevivedUDP",
   "xedra_evolved",
   "magiclysm",
+  "magyclism_simplified",
   "no_fungal_growth",
-  "Hauling_Space",
+  "hauling_space",
   "no_portal_storms",
   "no_revive"
 ]
