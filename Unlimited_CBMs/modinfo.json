@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "cbms_unlimited",
+    "name": "CBMs Unlimited",
+    "authors": [ "Cthae"],
+    "description": "Removes the limitation on CBM slots from Aftershock",
+    "category": "vehicles",
+    "dependencies": [ "dda", "aftershock" ]
+  }
+]
