@@ -1,0 +1,31 @@
+[
+  {
+    "type": "playlist",
+    "playlists": [
+      {
+        "id": "title",
+        "shuffle": true,
+        "files": [
+          { "file": "music/01Trader's Life.ogg", "volume": 80 },
+          { "file": "music/02 Moribund World.ogg", "volume": 80 },
+          { "file": "music/03 Khans of New California.ogg", "volume": 80 },
+          { "file": "music/04 Desert Wind.ogg", "volume": 80 },
+          { "file": "music/05 Vats of Goo.ogg", "volume": 80 },
+          { "file": "music/06 City of Lost Angels.ogg", "volume": 80 },
+          { "file": "music/07 Industrial Junk.ogg", "volume": 80 },
+          { "file": "music/08 Underground Troubles.ogg", "volume": 80 },
+          { "file": "music/09 City of the Dead.ogg", "volume": 80 },
+          { "file": "music/10 Follower's Credo.ogg", "volume": 80 },
+          { "file": "music/11 Beyond the Canyon.ogg", "volume": 80 },
+          { "file": "music/12 Dream Town.ogg", "volume": 80 },
+          { "file": "music/13 Biggest Little City in the World.ogg", "volume": 50 },
+          { "file": "music/14 My Chrysalis Highwayman.ogg", "volume": 80 },
+          { "file": "music/15 Many Contrasts.ogg", "volume": 80 },
+          { "file": "music/16 All-Clear Signal.ogg", "volume": 80 },
+          { "file": "music/17 California Revisited.ogg", "volume": 80 },
+          { "file": "music/18 Gold Slouch.ogg", "volume": 80 }
+        ]
+      }
+    ]
+  }
+]
