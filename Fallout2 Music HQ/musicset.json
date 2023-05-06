@@ -1,0 +1,43 @@
+[
+  {
+    "type": "playlist",
+    "playlists": [
+      {
+        "id": "title",
+        "shuffle": true,
+        "files": [
+          { "file": "music/01hub.wav", "volume": 80 },
+          { "file": "music/02mstrlr.wav", "volume": 80 },
+          { "file": "music/03wrldmp.wav", "volume": 80 },
+          { "file": "music/04brthrh.wav", "volume": 80 },
+          { "file": "music/05raider.wav", "volume": 80 },
+          { "file": "music/06vault.wav", "volume": 80 },
+          { "file": "music/07desert.wav", "volume": 80 },
+          { "file": "music/08vats.wav", "volume": 80 },
+          { "file": "music/09glow.wav", "volume": 80 },
+          { "file": "music/10labone.wav", "volume": 80 },
+          { "file": "music/11chilrn.wav", "volume": 80 },
+          { "file": "music/12junktn.wav", "volume": 80 },
+          { "file": "music/13carvrn.wav", "volume": 80 },
+          { "file": "music/14necro.wav", "volume": 80 },
+          { "file": "music/15shady.wav", "volume": 80 },
+          { "file": "music/16follow.wav", "volume": 80 },
+          { "file": "music/17arroyo.wav", "volume": 80 },
+          { "file": "music/18modoc.wav", "volume": 80 },
+          { "file": "music/19reno.wav", "volume": 80 },
+          { "file": "music/20car.wav", "volume": 80 },
+          { "file": "music/21sf.wav", "volume": 80 },
+          { "file": "music/22vcity.wav", "volume": 80 },
+          { "file": "music/23world.wav", "volume": 80 },
+          { "file": "music/24redd.wav", "volume": 80 },
+          { "file": "music/abbey1.wav", "volume": 80 },
+          { "file": "music/akiss.wav", "volume": 80 },
+          { "file": "music/maybe.wav", "volume": 80 },
+          { "file": "music/prmtribe.wav", "volume": 80 },
+          { "file": "music/wind1.wav", "volume": 80 },
+          { "file": "music/wind2.wav", "volume": 80 }
+        ]
+      }
+    ]
+  }
+]
