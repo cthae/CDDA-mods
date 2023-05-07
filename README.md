@@ -2,7 +2,7 @@
 
 Just making my local CDDA mods available.
 
-0. **Fallout2 Music** - not exactly a mod. More of a soundpack that only contains music from ft2 for those who, like myself, loves ft1/2 and wants to bring a bit of that music into CDDA. It fits quite well. To install, just copy the folder to your game's sound folder, start the game, go to Global settings and change the soundpack to Fallout-Music, then restart the game.
+0. **Fallout2 Music (HQ)** - not exactly a mod. More of a soundpack that only contains music from ft2 for those who, like myself, loves ft1/2 and wants to bring a bit of that music into CDDA. It fits quite well. To install, just copy the folder to your game's sound folder, start the game, go to Global settings and change the soundpack to Fallout-Music, then restart the game. The HQ version is about 1GB.
 1. **Armored Wheel Offroad** - Adds the offroad flag to armored wheels. CDDA devs claim the armored wheel is too good to be offroad. Well, I disagree. There we go.
 2. **Hauling Space** - Returns the Hauling space to the game right like it used to be. The devs decided to just get rid of it, which killed all my items in the car. Well, now it's back here with this mod.
 3. **No Portal Storms** - Effectively disables portal storms. The storms are pretty trivial to survive, and yet they're really annoying. Every 5-18 days becomes super annoying when you're playing for a few in-game years. Probably ok if you do like 30-days runs, but then where's the fun in short runs?
