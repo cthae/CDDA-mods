@@ -1,6 +1,0 @@
-#CDDA-Soundpack
-#Name of the soundpack
-NAME: Fallout-Music
-#Viewing name of the soundpack
-VIEW: Fallout-Music
-DESCRIPTION: A simple set of tracks from Fallout2 playing on random.
